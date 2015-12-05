@@ -1,2 +1,3 @@
 # jekyllorg.github.io
-Le site web de l'organisation
+Le site web de l'organisation,
+qui peut être éditer par les membres "write".
